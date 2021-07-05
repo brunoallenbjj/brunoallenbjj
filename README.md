@@ -3,6 +3,9 @@ I am a computer developer and have experience in working in many freelances jobs
 
 
 🔭 I’m currently developing working on HTML, CSS, JS, Python and SQL.
+
 📊 cryptocurrency and financial market specialist.
-💬 Ask me about anything 
+
+💬 Ask me about anything. 
+
 ⚡ Available for Freelance projects/internship opportunities.
