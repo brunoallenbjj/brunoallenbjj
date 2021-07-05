@@ -1,4 +1,4 @@
-I am a computer developer and have experience in working in many freelances jobs as technical Lead and Full stack developer. Interested in making life easier by creating utility tools. Fascinated about trading.
+I am a computer developer and have experience in working in many freelances jobs as technical Lead and Front-End developer. Interested in making life easier by creating utility tools. Fascinated about trading.
 
 
 
