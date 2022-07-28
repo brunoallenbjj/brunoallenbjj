@@ -7,4 +7,4 @@ I am a computer developer and have experience in working in many freelances jobs
 📊 cryptocurrency and financial market specialist.
 👨‍💻  I am looking for new challenges.
 
-⚡ Available for Freelance projects/internship opportunities.
+
