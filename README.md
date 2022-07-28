@@ -5,6 +5,5 @@ I am a computer developer and have experience in working in many freelances jobs
 🔭 I’m currently developing working on HTML, CSS, JS, ReactJS , NodeJs, PYTHON, SQL.
 
 📊 cryptocurrency and financial market specialist.
-👨‍💻  I am looking for new challenges.
 
 
