@@ -17,7 +17,7 @@
 
 ### 👨‍💻 Sobre
 
-Sou consultor SAP Basis & Service Desk, com 4 anos de experiência em ambientes o de sistemas SAP, segurança da informação e análise de dados. Adoro aprender, compartilhar conhecimento e enfrentar desafios e resolver problemas. Sou um analiste proativo que muitas vezes antecipa o problema para um consultor com mais tempo de experiência e levo o problema só para a apoio de resolução.
+Sou consultor SAP Basis & Service Desk, com 4 anos de experiência em ambientes o de sistemas SAP, e análise de dados. Adoro aprender, compartilhar conhecimento e enfrentar desafios e resolver problemas. Sou um analiste proativo que muitas vezes antecipa o problema para um consultor com mais tempo de experiência e levo o problema só para a apoio de resolução.
 
 - 💬 Fale comigo sobre **SAP Basis & Security, Análise de dados, IA, ITSM**
 - 📫 Email: **brunodealencart@gmail.com**
