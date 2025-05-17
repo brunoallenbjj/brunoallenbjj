@@ -30,10 +30,11 @@ Sou consultor SAP Basis & Service Desk, com 4 anos de experiência em ambientes 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" height="35" title="SAP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" title="Javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" title="ServiceNow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="35" title="Github"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" title="Javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="35" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="35" title="postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" title="github"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/servicNow/serviceNow-original.svg" height="35" title="ServiceNow"/>
   <!-- Adicione outras ferramentas conforme desejar -->
 </p>
 
@@ -41,10 +42,10 @@ Sou consultor SAP Basis & Service Desk, com 4 anos de experiência em ambientes 
 
 ### 🚀 Atividades em Destaque
 
-- [SAP Basis security basic tasks](#) - Criação, cópia, reset de senhas, atribuição de transações & roles a usuários, FireFight de acesso a consultores alocados.
-- [Suporte ao user ambiente SAP N1](#) - Sustentação a operação com troubleshooting básicos.
+- [SAP Basis security basic tasks](#) - Criação, cópia, reset de senhas, atribuição de transações & roles a usuários com base em governança, FireFight de acesso a consultores alocados.
+- [Suporte ao user ambiente SAP N1](#) - Sustentação a operação com troubleshooting básicos, abertura de Ticket SAP For Me
 - [Monitoramento Performance de rotina & Checklists de sistema SAP](#) - Preparação de documento de Checklist Certificados, Alerts, Saúde do banco, etc..
-- [Analise de dados com foco em tomada de decisão](#) - Analise de esteira de incidentes & Problemas no ServiceNow com foco em criticidade e SLA, fazendo análise em causas raiz.
+- [Analise de dados com foco em tomada de decisão](#) - Analise de esteira de incidentes & Prob.lemas no ServiceNow com foco em criticidade e SLA, fazendo análise em causas raiz.
 - [Gestão de Change Request](#) - Foco em controle de filas no ServiNow de evidências e documentação para auditorias.
 
 ---
