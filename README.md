@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoallenbjj&label=Profile%20views&color=0e75b6&style=flat" alt="brunoallenbjj" /> </p>
 
-- 💬 Ask me about **Anything..**
+- 💬 Ask me about **SAP BASIS & Security..**
 
 - 📫 How to reach me **brunodealencart@gmail.com**
 
