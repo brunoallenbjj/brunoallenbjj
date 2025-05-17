@@ -42,8 +42,8 @@ Sou consultor SAP Basis & Service Desk, com 4 anos de experiência em ambientes 
 
 ### 🚀 Atividades de Rotina diária:
 
-- [SAP Basis security basic tasks](#) - Criação, cópia, reset de senhas, atribuição de transações & roles a usuários com base em governança, FireFight de acesso a consultores alocados.
-- [Suporte ao user ambiente SAP N1](#) - Sustentação a operação com troubleshooting básicos, abertura de Ticket SAP For Me.
+- [SAP Basis security basic tasks](#) - Criação & cópia de users, reset de senhas, atribuição de transações & roles a users com base em governança, FireFight de acesso a consultores alocados.
+- [Suporte ao user ambiente SAP N1](#) - Sustentação a operação com troubleshooting básicos, abertura de Service Request no SAP For Me.
 - [Monitoramento Performance de rotina & Checklists de sistema SAP](#) - Preparação de documento de Checklist Certificados, Alerts, Saúde do banco, etc..
 - [Analise de dados com foco em tomada de decisão](#) - Analise de esteira de incidentes & Problemas no ServiceNow com foco em criticidade e SLA, fazendo análise em causas raiz para melhorias.
 - [Gestão de Change Request](#) - Foco em controle de filas no ServiNow de evidências e documentação para auditorias.
