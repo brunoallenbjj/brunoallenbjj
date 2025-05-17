@@ -1,23 +1,63 @@
-<h1 align="center">Hi, I'm Bruno de Alencar Almeida Araújo.</h1>
-<h3 align="center">SAP Basis & Security and Data Analyst.</h3>
+<h1 align="center">Olá, sou Bruno de Alencar Almeida Araújo 👋</h1>
+<h3 align="center">Consultor SAP Basis & Security | Analista de Dados</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunoallenbjj&label=Profile%20views&color=0e75b6&style=flat" alt="brunoallenbjj" /> </p>
-
-- 💬 Ask me about **SAP BASIS & Security..**
-
-- 📫 How to reach me **brunodealencart@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedlin.com/in/bruno-alencar-pcd-30b271134/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedlin.com/in/bruno-alencar-pcd-30b271134/" height="30" width="40" /></a>
-<a href="https://instagram.com/@brunodealencart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@brunodealencart" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/bruno-alencar-pcd-30b271134/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:brunodealencart@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/brunodealencart" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.sap.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoallenbjj&show_icons=true&locale=en&layout=compact" alt="brunoallenbjj" /></p>
+### 👨‍💻 Sobre
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunoallenbjj&show_icons=true&locale=en" alt="brunoallenbjj" /></p>
+Sou consultor SAP Basis & Service Desk, com 4 anos de experiência em ambientes o de sistemas SAP, segurança da informação e análise de dados. Adoro aprender, compartilhar conhecimento e enfrentar desafios e resolver problemas. Sou um analiste proativo que muitas vezes antecipa o problema para um consultor com mais tempo de experiência e levo o problema só para a apoio de resolução.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoallenbjj&" alt="brunoallenbjj" /></p>
+- 💬 Fale comigo sobre **SAP Basis & Security, Análise de dados, IA, ITSM**
+- 📫 Email: **brunodealencart@gmail.com**
+- 🌍 Localização: São Paulo - SP Brasil
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" height="35" title="SAP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" title="Javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" title="ServiceNow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="35" title="Github"/>
+  <!-- Adicione outras ferramentas conforme desejar -->
+</p>
+
+---
+
+### 🚀 Atividades em Destaque
+
+- [SAP Basis security basic tasks](#) - Criação, cópia, reset de senhas, atribuição de transações & roles a usuários, FireFight de acesso a consultores alocados.
+- [Suporte ao user ambiente SAP N1](#) - Sustentação a operação com troubleshooting básicos.
+- [Monitoramento Performance de rotina & Checklists de sistema SAP](#) - Preparação de documento de Checklist Certificados, Alerts, Saúde do banco, etc..
+- [Analise de dados com foco em tomada de decisão](#) - Analise de esteira de incidentes & Problemas no ServiceNow com foco em criticidade e SLA, fazendo análise em causas raiz.
+- [Gestão de Change Request](#) - Foco em controle de filas no ServiNow de evidências e documentação para auditorias.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunoallenbjj&show_icons=true&locale=pt-br" alt="brunoallenbjj" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunoallenbjj&theme=default" alt="brunoallenbjj" height="180"/>
+</p>
+
+---
+
+<div align="center">
+  <sub>Atualizado automaticamente • Obrigado pela visita!</sub>
+</div>
