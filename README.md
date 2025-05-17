@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Bruno de Alencar Almeida Araújo 👋</h1>
-<h3 align="center">Consultor SAP Basis & Security | Analista de Dados</h3>
+<h3 align="center">Consultor SAP Basis & Security Jr | Analista de Dados</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/bruno-alencar-pcd-30b271134/" target="_blank">
