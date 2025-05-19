@@ -15,13 +15,49 @@
 
 ---
 
-### 👨‍💻 Sobre
+# 👋 Sobre mim
 
-Sou consultor SAP Basis & Service Desk, com 4 anos de experiência em ambientes o de sistemas SAP, e análise de dados. Adoro aprender, compartilhar conhecimento e enfrentar desafios e resolver problemas. Sou um analiste proativo que muitas vezes antecipa o problema para um consultor com mais tempo de experiência e levo o problema só para a apoio de resolução.
+## 👤 Bruno Alencar  
+**Idade:** 31 anos  
+**PCD:** Monocular (visão em apenas um dos olhos)  
 
-- 💬 Fale comigo sobre **SAP Basis & Security, Análise de dados, IA, ITSM**
-- 📫 Email: **brunodealencart@gmail.com**
-- 🌍 Localização: São Paulo - SP Brasil
+---
+
+## 🌍 Experiência Internacional  
+Morei por **11 anos fora do Brasil**, entre **Portugal** e **Espanha**, o que ampliou minha visão de mundo, flexibilidade cultural e capacidade de adaptação.
+
+---
+
+## 💼 Experiência Profissional  
+- 💻 Trabalho com **Tecnologia da Informação há 5 anos**  
+- 🧠 Atuação com **SAP há 3 anos**, em projetos de integração e suporte técnico  
+
+---
+
+## ⚽ Hobbies  
+- 🥋 **Jiu-jitsu** – foco, disciplina e controle emocional  
+- ⚽ **Futebol** – espírito de equipe, leveza e colaboração  
+
+---
+
+## ✅ Pontos Fortes  
+- 🔧 **Proatividade** – reconhecida por gestores em diferentes experiências  
+- 💡 Gosto de antecipar demandas e buscar soluções eficazes  
+
+---
+
+## ⚠️ Ponto a Melhorar  
+- 😅 **Ansiedade** – estou em constante evolução, trabalhando com foco, organização e inteligência emocional  
+
+---
+
+## 📫 Contato  
+Fique à vontade para entrar em contato ou conectar-se:  
+[LinkedIn](https://www.linkedin.com/in/seu-usuario) | [GitHub](https://github.com/seu-usuario)  
+
+---
+
+> _"A tecnologia move o mundo, mas são as pessoas que fazem isso acontecer."_  
 
 ---
 
