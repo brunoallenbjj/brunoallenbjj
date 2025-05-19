@@ -42,12 +42,12 @@ Morei por **11 anos fora do Brasil**, entre **Portugal** e **Espanha**, o que am
 
 ## ✅ Pontos Fortes  
 - 🔧 **Proatividade** – reconhecida por gestores em diferentes experiências  
-- 💡 Gosto de antecipar demandas e buscar soluções eficazes  
+- 💡 Gosto de antecipar demandas exemplo: Ah vi no checklist que o certificado vai vencer, vamos avisar para o cliente comprar logo para renovar pq o processo é com o time de compras e demora um pouco. Ou então, tipo ah o banco deu um pico tal dia, já bora ver o que houve e levar para o cliente no dia do EWA.
 
 ---
 
 ## ⚠️ Ponto a Melhorar  
-- 😅 **Ansiedade** – estou em constante evolução, trabalhando com foco, organização e inteligência emocional  
+- 😅 **Ansiedade** – estou em constante evolução, mas um exemplo é: Crio os acessos VPN dos terceiros mas passa por um fluxo enorme de aprovação, ficava ansioso para todo mundo aprovar logo e seguir com a liberação. 
 
 ---
 
@@ -82,7 +82,7 @@ Fique à vontade para entrar em contato ou conectar-se:
 - [Gestão & Gerencimento de AMS](#) - Controle de Baseline mensal, Aprovação de melhorias, Gerenciamento da fila de incidentes via ServiceNow, reuniões de FUP e alinhamento.
 - [Analise de dados com foco em tomada de decisão](#) - Analise de esteira de incidentes & Problemas no ServiceNow com foco no BASELINE, fazendo análise em causas raiz para melhorias.
 - [Gestão de Change Request](#) - Foco em controle de evidências e documentação para auditorias. - Task que tá com o Basis dedicado hoje.
-- [Task de consultor Basis](#) - Criação & cópia de users, reset de senhas, atribuição de transações & roles a users com base em governança, FireFight de acesso a consultores alocados. DEV & QA. No  PRD - Sallpoint eu pilotava o user.
+- [Task de consultor Basis](#) - Criação & cópia de perfis users (Inclusive criei o do Pedro Amorim), reset de senhas, atribuição de transações & roles a users com base em governança, FireFight de acesso a consultores alocados. DEV & QA. No  PRD - Sallpoint eu pilotava o user.
 - [Monitoramento Performance de rotina & Checklists de sistema SAP](#) - Pular página checklist e dps volta pra essa.
 - [Participei extração de dados SoD KPMG](#) - Extração de dados para auditoria, inclusive tenho o procedimento documentado.
 - [Acompanhei o Aaron Suarez na revisão das FUE](#) - Tinhamos estouro nas licenças e o foco era Limpeza de autorizações e licenças.
