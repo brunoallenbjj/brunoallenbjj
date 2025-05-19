@@ -76,7 +76,7 @@ Fique à vontade para entrar em contato ou conectar-se:
 
 ---
 
-### 🚀 Atividades de Rotina diária:
+### 🚀 Atividades de Rotina diária: ( Time-line )
 
 - [Suporte ao usuário final no ambiente SAP N1](#) - Sustentação a operação com troubleshooting básicos, abertura de Service Request no SAP For Me.
 - [Gestão & Gerencimento de AMS](#) - Controle de Baseline mensal, Aprovação de melhorias, Gerenciamento da fila de incidentes via ServiceNow, reuniões de FUP e alinhamento.
