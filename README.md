@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Bruno de Alencar Almeida Araújo 👋</h1>
-<h3 align="center">Consultor SAP Basis & Security Jr | Analista de Dados</h3>
+<h3 align="center">Consultor SAP Basis & Security | Analista de Dados</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/bruno-alencar-pcd-30b271134/" target="_blank">
@@ -17,8 +17,6 @@
 
 # 👋 Sobre mim
 
-## 👤 Bruno Alencar  
-
 ---
 
 ## 🌍 Experiência Internacional  
@@ -32,7 +30,7 @@ Morei por **11 anos fora do Brasil**, entre **Portugal** e **Espanha**, o que am
 
 ---
 
-## ⚽ Hobbies  
+## 🥋 Hobbies  
 - 🥋 **Jiu-jitsu** – Há 12 anos eu gosto pq trabalha foco, disciplina e controle emocional, resiliência.. Uma verdadeira terapia.  ( Inclusive se tiverem filhos, aconselho a colocarem, no Judô & Jiujitsu )
 - ⚽ **Futebol** – Jogo desde mlk também, fui capitão do time da escola por 3 anos no Sub-15 ao Sub-18. Não sei se era capitão pq era a minha mãe que se responsabilizava em levar o time para os jogos ou pq eu jogava direitinho)
 
