@@ -32,7 +32,7 @@ Morei por **11 anos fora do Brasil**, entre **Portugal** e **Espanha**, o que am
 
 ## 🥋 Hobbies  
 - 🥋 **Jiu-jitsu** – Há 12 anos eu gosto pq trabalha foco, disciplina e controle emocional, resiliência.. Uma verdadeira terapia.  ( Inclusive se tiverem filhos, aconselho a colocarem, no Judô & Jiujitsu )
-- ⚽ **Futebol** – Jogo desde mlk também, fui capitão do time da escola por 3 anos no Sub-15 ao Sub-18. Não sei se era capitão pq era a minha mãe que se responsabilizava em levar o time para os jogos ou pq eu jogava direitinho)
+- ⚽ **Futebol** – Jogo desde mlk também, fui capitão do time da escola por 3 anos no Sub-15 ao Sub-18.
 
 ---
 
