@@ -78,10 +78,10 @@ Fique à vontade para entrar em contato ou conectar-se:
 
 - [Suporte ao usuário final no ambiente SAP N1](#) - Sustentação a operação com troubleshooting básicos, abertura de Service Request no SAP For Me.
 - [Gestão & Gerencimento de AMS](#) - Controle de Baseline mensal, Aprovação de melhorias, Gerenciamento da fila de incidentes via ServiceNow, reuniões de FUP e alinhamento.
-- [Analise de dados com foco em tomada de decisão](#) - (KPI Mensal) Analise de esteira de incidentes & Problemas no ServiceNow com foco no BASELINE, fazendo análise em causas raiz para melhorias.(Daqui saiu a ideia do Basis Dedicado) e o começo da minha atuação interna com suporte ao Basis.
-- [Gestão de Change Request](#) - Foco em controle de evidências e documentação para auditorias. - Task que tá com o Basis dedicado hoje.
-- [Task de consultor Basis](#) - Criação & cópia de perfis users (Inclusive criei o do Pedro Amorim), reset de senhas, atribuição de transações & roles a users com base em governança, FireFight de acesso a consultores alocados. DEV & QA. No  PRD - Sallpoint eu pilotava o user.
-- [Monitoramento Performance de rotina & Checklists de sistema SAP](#) - Pular página checklist e dps volta pra essa.
+- [Analise de dados com foco em tomada de decisão](#) - (KPI Mensal) Analise de esteira de incidentes & Problemas no ServiceNow com foco no BASELINE, fazendo análise em causas raiz para melhorias.
+- [Gestão de Change Request](#) - Foco em controle de evidências e documentação para auditorias.
+- [Task de consultor Basis](#) - Criação & cópia de perfis users, reset de senhas, atribuição de transações & roles a users com base em governança, FireFight de acesso a consultores alocados. DEV & QA. No  PRD - Sallpoint eu pilotava o user.
+- [Monitoramento Performance de rotina & Checklists de sistema SAP](#)
 - [Participei extração de dados SoD KPMG](#) - Extração de dados para auditoria, inclusive tenho o procedimento documentado.
 - [Acompanhei o Aaron Suarez na revisão das FUE](#) - Tinhamos estouro nas licenças e o foco era Limpeza de autorizações e licenças.
 
