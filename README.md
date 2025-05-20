@@ -18,8 +18,6 @@
 # 👋 Sobre mim
 
 ## 👤 Bruno Alencar  
-**Idade:** 31 anos  
-**PCD:** Monocular (visão em apenas um dos olhos)  
 
 ---
 
