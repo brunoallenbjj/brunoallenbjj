@@ -25,8 +25,8 @@ Morei por **11 anos fora do Brasil**, entre **Portugal** e **Espanha**, o que am
 ---
 
 ## 💼 Experiência Profissional  
-- 💻 Trabalho com **Tecnologia da Informação há 5 anos**  
-- 🧠 Atuação com **SAP há 3 anos**, em projetos de integração e suporte técnico  
+- 💻 Trabalho com **Tecnologia da Informação há 6 anos**  
+- 🧠 Atuação com **SAP há 3 anos**, em projetos de integração e suporte técnico.
 
 ---
 
@@ -34,16 +34,6 @@ Morei por **11 anos fora do Brasil**, entre **Portugal** e **Espanha**, o que am
 - 🥋 **Jiu-jitsu** – Há 12 anos eu gosto pq trabalha foco, disciplina e controle emocional, resiliência.. Uma verdadeira terapia.  ( Inclusive se tiverem filhos, aconselho a colocarem, no Judô & Jiujitsu )
 - ⚽ **Futebol** – Jogo desde mlk também, fui capitão do time da escola por 3 anos no Sub-15 ao Sub-18.
 
----
-
-## ✅ Pontos Fortes  
-- 🔧 **Proatividade** – reconhecida por gestores em diferentes experiências  
-- 💡 Gosto de antecipar demandas exemplo: Ah vi no checklist que o certificado vai vencer, vamos avisar para o cliente comprar logo para renovar pq o processo é com o time de compras e demora um pouco. Ou então, tipo ah o banco deu um pico tal dia, já bora ver o que houve e levar para o cliente no dia do EWA.
-
----
-
-## ⚠️ Ponto a Melhorar  
-- 😅 **Ansiedade** – estou em constante evolução, mas um exemplo é: Crio os acessos VPN dos terceiros mas passa por um fluxo enorme de aprovação, ficava ansioso para todo mundo aprovar logo e seguir com a liberação. 
 
 ---
 
